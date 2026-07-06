@@ -7,7 +7,7 @@
 ---
 
 ## 🌐 Live Demo
-🔗 **peoples-priorities-ruby.vercel.app**
+🔗 peoples-priorities-ruby.vercel.app
 
 ---
 
