@@ -7,7 +7,7 @@
 ---
 
 ## 🌐 Live Demo
-🔗 **[Live Demo — Deploy to Vercel/Netlify using this repo](#-deployment)**
+🔗 **peoples-priorities-ruby.vercel.app**
 
 ---
 
